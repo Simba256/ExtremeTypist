@@ -8,6 +8,7 @@ Ever dreamed of being the fastest typer on Monkeytype? Well, dream no more! This
 - Logs into your Monkeytype account using Selenium WebDriver.
 - "Types" at a superhuman speed to break all the records.
 - Get to the top of the leaderboard in no time (as a joke of course).
+- Eligible for the leaderboard by simulating 2 hours of typing (we've got that covered!).
 
 ## Disclaimer ⚠️
 This script is for educational and entertainment purposes only. Please use it responsibly. Cheating ruins the fun for others, and Monkeytype is a site where people challenge themselves to improve their typing skills. Use at your own risk!
@@ -34,10 +35,15 @@ This script is for educational and entertainment purposes only. Please use it re
    
 2. Run the script:
     ```bash
-    python monkeytype_bot.py
+    python MonkeyType.py
     ```
 
-3. Watch as your account "breaks" the Monkeytype leaderboard.
+3. To qualify for the leaderboard, you need to have typed for at least 2 hours. Don't worry, we've got that covered too! Just run the `type2hrs.py` script and let your computer do the typing for 2 hours:
+    ```bash
+    python type2hrs.py
+    ```
+
+4. Watch as your account "breaks" the Monkeytype leaderboard.
 
 ## Requirements
 - Python 3.x
