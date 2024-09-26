@@ -16,8 +16,8 @@ This script is for educational and entertainment purposes only. Please use it re
 
 1. Clone this repository to your local machine.
     ```bash
-    git clone https://github.com/yourusername/monkeytype-bot.git
-    cd monkeytype-bot
+    git clone https://github.com/Simba256/ExtremeTypist.git
+    cd ExtremeTypist
     ```
 
 2. Install the necessary dependencies:
